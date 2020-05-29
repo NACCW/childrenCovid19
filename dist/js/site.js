@@ -2,37 +2,37 @@
 let questions = [
   {
     id: 1,
-    question: "What is the full form of RAM ?",
-    answer: "Random Access Memory",
+    question: "What is the first question ?",
+    answer: "correct answer here",
     options: [
-      "Random Access Memory",
-      "Randomely Access Memory",
-      "Run Aceapt Memory",
+      "option 1",
+      "option 2",
+      "option 3",
       "None of these"
     ]
   },
   {
-    id: 2,
-    question: "What is the full form of CPU?",
-    answer: "Central Processing Unit",
+  id: 2,
+    question: "What is the first question ?",
+    answer: "correct answer here",
     options: [
-      "Central Program Unit",
-      "Central Processing Unit",
-      "Central Preload Unit",
+      "option 1",
+      "option 2",
+      "option 3",
       "None of these"
     ]
   },
-  {
-    id: 3,
-    question: "What is the full form of E-mail",
-    answer: "Electronic Mail",
+   {
+  id: 3,
+    question: "What is the first question ?",
+    answer: "correct answer here",
     options: [
-      "Electronic Mail",
-      "Electric Mail",
-      "Engine Mail",
+      "option 1",
+      "option 2",
+      "option 3",
       "None of these"
     ]
-  }
+  },
 ];
 
 let question_count = 0;
