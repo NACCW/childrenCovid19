@@ -91,7 +91,7 @@ let questions = [
             {
               id: 9,
                 question: "On your way to school, which ones below should you do ?",
-                answer: "All ",
+                answer: "All",
                 options: [
                   "Wear a face mask in public",
                   "Do not touch your face or mask",
