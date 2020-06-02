@@ -56,7 +56,7 @@ body {
   padding: 20px 0;
   border: none;
   border-radius: 100px;
-  background-color: #fff;
+  background-color: rgb(247, 57, 247);
   color:  #3CB371;
   font-size: 22px;
   transition: 0.4s all;
@@ -85,7 +85,7 @@ body {
   justify-content: space-between;
   border-top-left-radius: 3px;
   border-top-right-radius: 3px;
-  background-color: #3CB371;
+  background-color: rgb(39, 107, 209);
   box-shadow: 0px 2px 5px 1px rgba(0, 0, 0, 0.1);
   z-index: 1;
 }
