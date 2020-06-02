@@ -3,6 +3,8 @@
 Fun quizzes teaching kids how to practise COVID-19 precautions while in schools.
 
 
+![image](https://github.com/NACCW/childrenCovid19/blob/master/dist/images/cover.png)
+
 
 ### Who is it for ?
 
