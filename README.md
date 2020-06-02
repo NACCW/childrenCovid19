@@ -40,7 +40,7 @@ At the moment, contributions are not open.
 
 ## Developer
 
-* **Nompumelelo Mtsweni** 
+[Nompumelelo Mtsweni](https://github.com/elolelo)
 
 ## License
 
@@ -49,5 +49,5 @@ This project is licensed under the [MIT ](https://opensource.org/licenses/MIT) L
 ## Acknowledgments
 
 * NACCW
-* DBE
+* [DBE](https://www.education.gov.za/BB/covid-19-guide-for-learners-English/content/index.html#/lessons/0Bsmb0pdtA9jJBljbibQF52T3v_ampuw)
 
